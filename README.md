@@ -6,6 +6,6 @@ Publicly available information from a Real Estate Website was sourced, transform
 
 The tool helps achieve a decision by making already available information more accessible to a buyer or investor.
 
-A second, Virginia R file is included with a center view on Northern Virginia.
+A second, Virginia R file is included with a center view on Northern Virginia. Updated Dec 30, 2022.
 
 Link to interactive visualization: https://rpubs.com/gdhan8/HomeValueIndexGrowthRates
