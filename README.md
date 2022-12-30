@@ -4,7 +4,7 @@ Inputs Zillow home value index (ZHVI) zip-code data uses R and the Leaflet packa
 
 Publicly available information from a Real Estate Website was sourced, transformed, filtered, and joined with zip-code shape-file data to create an interactive chloropleth map of five year home value index growth rates. 
 
-The tool helps achieve a decision by making already available information more accessible to a buyer or investor.
+The tool assists in broad area selection for buyer or investor by making already available information more accessible. Long run growth rate differentials may reveal structural benefits to living in a specific locale.
 
 A second, Virginia R file is included with a center view on Northern Virginia. Updated Dec 30, 2022.
 
