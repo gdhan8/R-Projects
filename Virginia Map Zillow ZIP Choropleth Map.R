@@ -79,7 +79,7 @@ zipcode_shapefile <-  rgdal::readOGR(
 # copy data
 zc_data <- data.table::copy(zipcode_shapefile@data)
 
-#  join zillow data - it's very important that we do NOT  duplicate or drop rows or it's going to screw up the shapefile
+#  join zillow data - it's very important that we do NOT  duplicate or drop rows or it's going to mess up the shapefile
 #zcta_data$ZCTA5CE10 <- as.numeric(zcta_data$ZCTA5CE10)
 zillow_zc_data <- zc_data %>% left_join(zillow_data, by = c("ZCTA5CE20" = "region")) 
 
